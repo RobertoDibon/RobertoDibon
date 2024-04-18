@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about my favourite programming language, python!
 - 📫 How to reach me: Roberto Dibon
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: I´m a professional musician
